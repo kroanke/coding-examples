@@ -1,0 +1,30 @@
+﻿input[type=text], [type=tel], [type=email], [type=button], select, textarea {
+    width: 100%;
+    padding: 14px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    margin-top: 6px;
+    margin-bottom: 16px;
+    resize: vertical
+        
+}
+
+input[type=submit] {
+    background-color: black;
+    color: white;
+    padding: 7px 10px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+
+input[type=submit]:hover {
+    background-color: #252525;
+}
+
+.container {
+    border-radius: 5px;
+    background-color: #cdcecc;
+}
