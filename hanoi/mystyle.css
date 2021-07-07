@@ -1,0 +1,15 @@
+table {font:bold 13px Verdana}
+p {font:normal 11px Tahoma,Verdana}
+input,select {font:normal 12px Tahoma,Verdana}
+select {width:40px}
+a {font-weight:bold}
+
+.tower {position:absolute;visibility:visible;left:77px;top:184px;font:bold 10px Tahoma}
+.container {position:absolute;visibility:visible; }
+
+.insideImg {  position:absolute; border:0;top:-1px; height:14px; width:30px; }
+.disk {position:absolute;visibility:visible;border:1px solid black}
+
+ #bottombar { position:absolute; top:260px; left:10px;background:#222; border:1px solid black; height:30px; width:740px; }
+
+

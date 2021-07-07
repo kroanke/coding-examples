@@ -1,0 +1,12 @@
+/Users/kroanke/Projects/soru1/soru1/bin/Debug/netcoreapp3.1/soru1.deps.json
+/Users/kroanke/Projects/soru1/soru1/bin/Debug/netcoreapp3.1/soru1.runtimeconfig.json
+/Users/kroanke/Projects/soru1/soru1/bin/Debug/netcoreapp3.1/soru1.runtimeconfig.dev.json
+/Users/kroanke/Projects/soru1/soru1/bin/Debug/netcoreapp3.1/soru1.dll
+/Users/kroanke/Projects/soru1/soru1/bin/Debug/netcoreapp3.1/soru1.pdb
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.csprojAssemblyReference.cache
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.AssemblyInfoInputs.cache
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.AssemblyInfo.cs
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.csproj.CoreCompileInputs.cache
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.dll
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.pdb
+/Users/kroanke/Projects/soru1/soru1/obj/Debug/netcoreapp3.1/soru1.genruntimeconfig.cache
