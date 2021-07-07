@@ -1,0 +1,6 @@
+Ali Ahmet Karan,Diyarbakir,0 507 398 1202,0 533 1234567,0 123 4567890
+Burak Catak,Istanbul,0 607 3879340,0 543 1111111
+Ahmet Tanriverdi,Eskisehir,0 505 5442365
+Veli Tuz,Ankara,0 533 1111111,0 312 9408392
+Ali Can Kara,Antalya,0 554 2222222,0 543 3333333,0 246 1111111
+Ahmet Demir,Izmir,0 232 4444444
